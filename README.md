@@ -4,7 +4,7 @@
 ##
 
 
-- **Languages:** Python, C, C++, Java, HTML, CSS [[.]](https://github.com/pranavanand17/MindYourLanguage)
+- **Languages:** Python, C, C++, Java, HTML, CSS [[*]](https://github.com/pranavanand17/MindYourLanguage)
 - **Interests:** Reading, coding, drawing
 
 [What is life?](<https://imgur.com/a/WsMFfar>)
