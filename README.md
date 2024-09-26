@@ -6,9 +6,6 @@
 
 - **Languages:** Python, C, C++, Java, HTML, CSS
 - **Interests:** Reading, coding, drawing
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavanand17&layout=compact&theme=tokyonight)
-
 
 [What is life?](<https://imgur.com/a/WsMFfar>)
 
