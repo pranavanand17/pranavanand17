@@ -1,4 +1,4 @@
-*"A fool with all his other faults has this also, he is always getting ready to live."* - Epicurus
+***"A fool with all his other faults has this also, he is always getting ready to live."* - Epicurus**
 ##
 ![images](https://github.com/user-attachments/assets/f50aab33-cd32-44e6-b844-4e48a07aec61)
 ##
