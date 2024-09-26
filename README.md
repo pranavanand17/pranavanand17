@@ -6,8 +6,12 @@
 
 - **Languages:** Python, C, C++, Java, HTML, CSS
 - **Interests:** Reading, coding, drawing
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavanand17&layout=compact&theme=tokyonight)
+
 
 [What is life?](<https://imgur.com/a/WsMFfar>)
+
 
 <!--!
 **pranavanand17/pranavanand17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
