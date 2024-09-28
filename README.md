@@ -1,6 +1,5 @@
-***"A fool with all his other faults has this also, he is always getting ready to live."* - Epicurus**
 ##
-![images](https://github.com/user-attachments/assets/f50aab33-cd32-44e6-b844-4e48a07aec61)
+![epicurus](https://github.com/user-attachments/assets/7105df98-493d-452c-b8cc-9ddc146a9a27)
 ##
 
 
