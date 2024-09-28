@@ -1,5 +1,5 @@
 ##
-![epicurus](https://github.com/user-attachments/assets/7105df98-493d-452c-b8cc-9ddc146a9a27)
+![epicurus github](https://github.com/user-attachments/assets/41d30e46-60f6-4e56-b7ec-24c841f60598)
 ##
 
 
