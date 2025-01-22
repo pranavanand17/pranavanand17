@@ -1,5 +1,5 @@
 ##
-![prana](https://github.com/user-attachments/assets/9a632215-94cf-4120-868c-361de4f05942)
+![prana](https://github.com/user-attachments/assets/e9e5d8b3-d136-4f0c-b768-3e21437f3fe8)
 ##
 
 - **Languages:** Python, C, C++, Java, HTML, CSS [[*]](https://github.com/pranavanand17/MindYourLanguage)
