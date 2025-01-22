@@ -1,6 +1,6 @@
-
-![prana](https://github.com/user-attachments/assets/73d2b2b3-dbf8-4eea-b862-0b6b197320ed)
-
+##
+![prana](https://github.com/user-attachments/assets/9a632215-94cf-4120-868c-361de4f05942)
+##
 
 - **Languages:** Python, C, C++, Java, HTML, CSS [[*]](https://github.com/pranavanand17/MindYourLanguage)
 - **Interests:** Reading [[*]](https://www.goodreads.com/user/show/109514852-bharmony-103) , coding, drawing [[*]](https://pranavanand17.github.io/Gallery/)
