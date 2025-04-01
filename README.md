@@ -3,7 +3,7 @@
 ##
 
 - **Languages:** Python, C, C++, Java, HTML, CSS [[*]](https://github.com/pranavanand17/MindYourLanguage)
-- **Interests:** Reading [[*]](https://www.goodreads.com/user/show/109514852-bharmony-103) , coding[[*]](https://github.com/pranavanand17) , drawing [[*]](https://pranavanand17.github.io/Gallery/)
+- **Interests:** Reading [[*]](https://www.goodreads.com/user/show/109514852-bharmony-103) , Coding[[*]](https://github.com/pranavanand17) , Drawing [[*]](https://pranavanand17.github.io/Gallery/)
 
 [What is life?](<https://imgur.com/a/WsMFfar>)
 
