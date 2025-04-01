@@ -1,8 +1,6 @@
 ##
 ![prana](https://github.com/user-attachments/assets/64fd7f54-695a-408d-894e-a29b6f2c9c25)
 ##
-
-- **Languages:** Python, C, C++, Java, HTML, CSS [[*]](https://github.com/pranavanand17/MindYourLanguage)
 - **Interests:** Reading [[*]](https://www.goodreads.com/user/show/109514852-bharmony-103) , Coding[[*]](https://github.com/pranavanand17) , Drawing [[*]](https://pranavanand17.github.io/Gallery/)
 
 [What is life?](<https://imgur.com/a/WsMFfar>)
