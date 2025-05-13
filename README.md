@@ -3,7 +3,7 @@
 ##
 A few things I'm interested in->
 
-Reading [[*]](https://www.goodreads.com/user/show/109514852-bharmony-103) , Coding [[*]](https://github.com/pranavanand17) , Drawing [[*]](https://pranavanand17.github.io/Gallery/)
+Reading [[*]](https://www.goodreads.com/user/show/109514852-bharmony-103) , Coding [[*]](https://github.com/pranavanand17) , Drawing [[*]](https://pranavanand17.github.io/Gallery/) , Music [[*]](https://www.youtube.com/watch?v=zL3BQjGRM08&list=PLlzGf-uDqWBksp8GNQsIiEXSm5tyDgfHX)
 
 Knowledge is human.
 
