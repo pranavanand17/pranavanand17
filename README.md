@@ -3,7 +3,7 @@
 ##
 A few things I'm interested in->
 
-Drawing [[*]](https://pranavanand17.github.io/Gallery/) , Music [[*]](https://www.youtube.com/watch?v=zL3BQjGRM08&list=PLlzGf-uDqWBksp8GNQsIiEXSm5tyDgfHX)
+[Drawing](https://pranavanand17.github.io/Gallery/) , [Music](https://www.youtube.com/watch?v=zL3BQjGRM08&list=PLlzGf-uDqWBksp8GNQsIiEXSm5tyDgfHX)
 
 [What is life?](<https://imgur.com/a/WsMFfar>)
 
