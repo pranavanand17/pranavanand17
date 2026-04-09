@@ -1,9 +1,9 @@
 ##
 ![prana](https://github.com/user-attachments/assets/64fd7f54-695a-408d-894e-a29b6f2c9c25)
 ##
-A few things I'm interested in->
+A few things I've dabbled in>
 
-[Drawing](https://pranavanand17.github.io/Gallery/) , [Music](https://www.youtube.com/watch?v=zL3BQjGRM08&list=PLlzGf-uDqWBksp8GNQsIiEXSm5tyDgfHX)
+[Drawing](https://pranavanand17.github.io/Gallery/) , [Music](https://www.youtube.com/watch?v=zL3BQjGRM08&list=PLlzGf-uDqWBksp8GNQsIiEXSm5tyDgfHX), [Writing](https://pranavanand17.github.io/Prarticles/)
 
 [What is life?](<https://imgur.com/a/WsMFfar>)
 
