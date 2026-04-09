@@ -5,6 +5,9 @@ A few things I've dabbled in>
 
 [Drawing](https://pranavanand17.github.io/Gallery/) , [Music](https://www.youtube.com/watch?v=zL3BQjGRM08&list=PLlzGf-uDqWBksp8GNQsIiEXSm5tyDgfHX), [Writing](https://pranavanand17.github.io/Prarticles/)
 
+You can also find me on these 🙃
+[Letterboxd](https://letterboxd.com/DisplayProphet/) , [MyAnimeList](https://myanimelist.net/profile/D4CProphet) , [TV Time](https://app.tvtime.com/profile) 
+
 [What is life?](<https://imgur.com/a/WsMFfar>)
 
 
